@@ -1,0 +1,6 @@
+*~
+*.pdf
+/build
+sweaveRevised.tex
+sweaveBasics.tex
+*.Rout
